@@ -4,7 +4,7 @@ Quick analysis using linear regression to predict the weight of fish, using r! H
 
 This repo is the basis for my [blog post (in portuguese)](https://www.lucasmoraes.org/blog/fish_market/) regarding this analysis. Also, it can be cloned and run locally to generate the same Rmarkdown output.
 
-Here I chose the best explanatory variable to predict fish weight. I also briefly explored some concepts such as:
+Here I chose the best explanatory variables to predict fish weight. I also briefly explored some concepts such as:
 
 -   Residuals
 
